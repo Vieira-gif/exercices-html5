@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(145, 144, 221);
+}
+
+h2,h1,p {
+    text-align: center;
+}
+
+div {
+    background-color: rgba(255, 255, 255, 0.904);
+    margin-right: 20%;
+    margin-left: 20%;
+    border: 2px solid black ;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+div p{
+    margin-left: 100px;
+    width: 600px;
+}
+
+div img {
+    position: relative;
+    margin-left: 30%;
+}
