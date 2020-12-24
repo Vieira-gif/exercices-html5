@@ -1,12 +1,14 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
 }
 
 body{
-    background-color: rgb(145, 144, 221);
+    background-color: #1d1d1d;
+    color: white;
 }
 
-h2,h1,p {
+h2,h1, blockquote{
     text-align: center;
 }
 
@@ -17,14 +19,22 @@ div {
     border: 2px solid black ;
     padding: 10px;
     border-radius: 15px;
+    color: black;
+    font-size: 18px;
 }
 
 div p{
     margin-left: 100px;
     width: 600px;
+    text-align: justify;
 }
 
 div img {
     position: relative;
     margin-left: 30%;
+}
+
+ul, ol{
+    text-align: justify;
+    padding-left: 250px;
 }
