@@ -1,3 +1,20 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+body {
+    background: linear-gradient(329.54deg, #9131A0 0%, #00C7C7 100%) no-repeat;
+}
+
+header h1 {
+    text-align: center;
+}
+
+div{
+    background-color: rgb(235, 235, 235);
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid rgb(19, 18, 18);
+    padding: 10px;
+    border-radius: 20px;
+}
